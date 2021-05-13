@@ -8,6 +8,8 @@
 Im [Ash Hitchcock][website] a Front-end Dev from the UK with over 15 years of creating for the web. Lover of all things JavaScript including React, TypeScript, GraphQl and Node.
 
 
+<a href="https://www.buymeacoffee.com/hafowuvo" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 40px !important;width: auto !important;" ></a>
+
 ---
 
 ### The Socials:
